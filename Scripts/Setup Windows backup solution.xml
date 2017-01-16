@@ -1,0 +1,50 @@
+﻿<LabTech_Expansion
+	Version="110.342"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5846</ScriptId>
+				<FolderId>203</FolderId>
+				<ScriptName>Setup Windows backup solution</ScriptName>
+				<ScriptNotes>Created by Mike Moyse
+28/11/2016
+
+Sets up the database ready to receive the backup data</ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAFWPzQrCMBCE74LvkAdoyCa1tS1LLv5dVETFe9LuIQfTkrZi315aFOppmBm+gcGjK8m3tDWd0XgfGtISxaR47f2m7n1HQQOKmcPdu3FhZEjvg6vMELFz/aKnpcBUEjEFMmVSFRKKVcYuJxQzAm9lcE33oNC62o/T/8G3P/Su0ipPbW4h5jaGnEtJKc9iaziArCBP15WB5MdPAIr5oeXiAwuW5YvgAAAA</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO1YbVPiSBD+bpX/oYtdV7wiCkRRVqVUQI87BM+gfLi6D5NkgKmNE25elnV//XaSIQR0c3VbR91Su58yPT0vPU8/3T2ZM8cTbKpaRJHG9hbAWSLLWECx/UkJEmmvGQ18CQdzxR0R5IkqKjJ9N0HokkA2+lrcPHRa5wOnZQ0Z98OZtBwqPlJhXRHvg55aThhoxUJeSrZr8zHjtM2JG9BuOB5TcT4QmpZwoRYd/cNaOIJxFq12djC3wBiUrP6IRqK2UTk7WO5YGnWjmd+o1mtu3S3blmuX61alQmvWie0Sq1yu+OV67dgn5aP5KvGEGLODLGhmOUfRaWrHpaeMAaZl+q81j+UO7mzXzg4ychbmSqNu2+Wqf1y3iFs5Sexyay5dscsMzk6trnjMXpEPV+SjheyEQjXKeLjoa/qaIVeMaxr1p22j68sue2LxlHnTaDrcp1yR+OSozYpZ/BaQ5WBYzcOwngNh//cSzCiMQwUTKii41CNSU9jxwqepRiJz5PMOTIgENaEgwoCCjwT3FPV/Qlux87AdUgh58AxCcwSPSZgSoYCNEmEOMGB7jiggzDOGap6ivb8WlCsbhXLlOAdlp91tNwfQ7D/0BsVf9uD6vn8LbpwEpcmnjI9CGP7avm/DXaAxqUa5E85h98Lk5ItduOy1oGlckijTEGD+zu7rXmjUTH912RsRHKa15JW0/zDXO9VN8k5uermnUgcKZsjrHfl3IGJxB2YT5k1ATkId+JhyoAxEmRAJGTcxgokGK6xLJAW0XDCKcRLyXQX0E5NqLWFhbxLwtbyo6PSc9v0AOr1B/7VgKHop1UuZmChBB7XR95EEmu7B42X3oe1AMRsLJSikcVMogVXBjqFzVdg7XYtPDjfJJ1X7KMcp9leyyLtAnb7Z3rqhSoLjTaivA7q99ebdWJ1ub21vvW0LEYpkzztBR1inuUejFOWwAM8RPM+B2MXB+kMTY0yLaMCfyc2PfY6Puu8liogBf71/j9uZkZHTiwXKrRv0YrQj8X1rKiUnU6xEs+R+uS/j+2VCJtxnGgbMe8ZNcB1reHUXi9gvzQFSzfxEYCVjwExdHpu291UoMdr5uFiQkTUzwRS1Qq2Qf/C2mI7bez31rrLraym3Ya7Nya05uTTPLTUzjpZ4ePRj8dCnEs8Um5ZS8fsk4syVC67ppyciImoF0lXYDZF6v0ukcrTnUSlHOkicPSBiTNUdUZOXHIsm4/7/PcNaC1RfJVlto0iWV/mdP7px2X9ZiPz0z1RCcfGbmtSfbC1qZmrUYlwPf0hKYAI21MJLpQy4i8oV1yrzuxyVq6XatVLWbgmyDHEesbEW8TrRhGsdBHBLPLyV03iBfL9erKsQHm8SN/7l5eQnJ76NEyc/BidMXX6FG7+F7uB5SrGJLUfPhfQaVbpmQqp7neP9cgmiK2yLMPxXT1xXKPX6w+LempxW/96cZn9rkl95JfJDdBGPnpLIR/ryvWg9Txn/x4PRXDYPxF8AXVSWLy8WAAA=</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>296b9b03-b309-11e6-83ba-001d0967da05</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>203</FolderID>
+					<ParentID>170</ParentID>
+					<Name>Backup and Recovery</Name>
+					<GUID>451d8f17-aa2f-46a5-80de-6fd9d5ab81f9</GUID>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>170</FolderID>
+					<ParentID>0</ParentID>
+					<Name>_TSD Scripts</Name>
+					<GUID>c2ec5c8d-5793-481a-96e4-4fdc11364b6e</GUID>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

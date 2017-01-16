@@ -1,0 +1,185 @@
+﻿<LabTech_Expansion
+	Version="110.342"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5845</ScriptId>
+				<FolderId>203</FolderId>
+				<ScriptName>Windows Server Backup - Set Extra Data Fields</ScriptName>
+				<ScriptNotes></ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAFWPwQrCMBBE74L/kA9oSLbYtJYlFxVBFESL96RdMCBpSRuwfy8tCvU0zM68hcGzq8n3tDeD0ViNHWlAMSveot+10Q8UtESxcHh4dy5MDOnqGUPfmDFhp/gaWQoJSyUoBrLMoNwU7HpBsejjvQ6uGx4Uetf66fH/4Zsfo2s0WNrmRZZyY/OMA5DiVlniUkIjtypvjMx+/AygWM5Zrz405VpX3gAAAA==</LicenseData>
+				<ScriptData>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</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>1be97852-ab75-11e6-b6be-001d0967da05</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ExtraDataField>
+			<NewDataSet>
+				<Table>
+					<ID>595</ID>
+					<Form>1</Form>
+					<Name>Windows Server Backup Last Successful Backup</Name>
+					<Sort>0</Sort>
+					<NoBreak>0</NoBreak>
+					<FType>0</FType>
+					<Section>Windows Server Backup</Section>
+					<UnEditable>0</UnEditable>
+					<Collapsed>0</Collapsed>
+					<Fill>Shows the last successful server backup based on get-wbsummary | select lastsuccessfulbackuptime</Fill>
+					<LtGuid>92d073ab-048b-4d9a-8a45-4322eed802a3</LtGuid>
+					<IsPassword>false</IsPassword>
+					<IsEncrypted>false</IsEncrypted>
+					<IsHidden>false</IsHidden>
+					<IsRestricted>false</IsRestricted>
+					<ViewPermissions></ViewPermissions>
+					<EditPermissions></EditPermissions>
+				</Table>
+			</NewDataSet>
+		</ExtraDataField>
+		<ExtraDataField>
+			<NewDataSet>
+				<Table>
+					<ID>596</ID>
+					<Form>1</Form>
+					<Name>Windows Server Backup Number of Versions</Name>
+					<Sort>0</Sort>
+					<NoBreak>0</NoBreak>
+					<FType>0</FType>
+					<Section>Windows Server Backup</Section>
+					<UnEditable>0</UnEditable>
+					<Collapsed>0</Collapsed>
+					<Fill>Shows the number of versions held by Windows server backup as per get-wbsummary</Fill>
+					<LtGuid>314f3675-c553-4670-a4fc-9c1d6eee60e2</LtGuid>
+					<IsPassword>false</IsPassword>
+					<IsEncrypted>false</IsEncrypted>
+					<IsHidden>false</IsHidden>
+					<IsRestricted>false</IsRestricted>
+					<ViewPermissions></ViewPermissions>
+					<EditPermissions></EditPermissions>
+				</Table>
+			</NewDataSet>
+		</ExtraDataField>
+		<ExtraDataField>
+			<NewDataSet>
+				<Table>
+					<ID>600</ID>
+					<Form>1</Form>
+					<Name>Windows Server Backup Volumes To Backup</Name>
+					<Sort>0</Sort>
+					<NoBreak>0</NoBreak>
+					<FType>0</FType>
+					<Section>Windows Server Backup</Section>
+					<UnEditable>0</UnEditable>
+					<Collapsed>0</Collapsed>
+					<Fill>Shows the volumes being backed up</Fill>
+					<LtGuid>3fd8e75f-c2ee-4aa2-ab77-124cd83329a0</LtGuid>
+					<IsPassword>false</IsPassword>
+					<IsEncrypted>false</IsEncrypted>
+					<IsHidden>false</IsHidden>
+					<IsRestricted>false</IsRestricted>
+					<ViewPermissions></ViewPermissions>
+					<EditPermissions></EditPermissions>
+				</Table>
+			</NewDataSet>
+		</ExtraDataField>
+		<ExtraDataField>
+			<NewDataSet>
+				<Table>
+					<ID>598</ID>
+					<Form>1</Form>
+					<Name>Windows Server Backup Bare Metal Recovery</Name>
+					<Sort>0</Sort>
+					<NoBreak>0</NoBreak>
+					<FType>0</FType>
+					<Section>Windows Server Backup</Section>
+					<UnEditable>0</UnEditable>
+					<Collapsed>0</Collapsed>
+					<Fill>Shows whether this computers Windows Server Backup allows for Bare Metal Recovery</Fill>
+					<LtGuid>58d5c5e6-9a63-40ad-93e3-09b974ad5a49</LtGuid>
+					<IsPassword>false</IsPassword>
+					<IsEncrypted>false</IsEncrypted>
+					<IsHidden>false</IsHidden>
+					<IsRestricted>false</IsRestricted>
+					<ViewPermissions></ViewPermissions>
+					<EditPermissions></EditPermissions>
+				</Table>
+			</NewDataSet>
+		</ExtraDataField>
+		<ExtraDataField>
+			<NewDataSet>
+				<Table>
+					<ID>599</ID>
+					<Form>1</Form>
+					<Name>Windows Server Backup Last Backup Result</Name>
+					<Sort>0</Sort>
+					<NoBreak>0</NoBreak>
+					<FType>0</FType>
+					<Section>Windows Server Backup</Section>
+					<UnEditable>0</UnEditable>
+					<Collapsed>0</Collapsed>
+					<Fill>Shows the value of LastBackupResult from get-wbsummary Non zero is usually a failure</Fill>
+					<LtGuid>cbde769c-db50-4168-b03d-737f578597a7</LtGuid>
+					<IsPassword>false</IsPassword>
+					<IsEncrypted>false</IsEncrypted>
+					<IsHidden>false</IsHidden>
+					<IsRestricted>false</IsRestricted>
+					<ViewPermissions></ViewPermissions>
+					<EditPermissions></EditPermissions>
+				</Table>
+			</NewDataSet>
+		</ExtraDataField>
+		<ExtraDataField>
+			<NewDataSet>
+				<Table>
+					<ID>597</ID>
+					<Form>1</Form>
+					<Name>Windows Server Backup Detailed Message</Name>
+					<Sort>0</Sort>
+					<NoBreak>0</NoBreak>
+					<FType>0</FType>
+					<Section>Windows Server Backup</Section>
+					<UnEditable>0</UnEditable>
+					<Collapsed>0</Collapsed>
+					<Fill>Shows the last detailed message from Windows Server Backup</Fill>
+					<LtGuid>f2b86044-39d3-462d-9024-2cda3b9f490e</LtGuid>
+					<IsPassword>false</IsPassword>
+					<IsEncrypted>false</IsEncrypted>
+					<IsHidden>false</IsHidden>
+					<IsRestricted>false</IsRestricted>
+					<ViewPermissions></ViewPermissions>
+					<EditPermissions></EditPermissions>
+				</Table>
+			</NewDataSet>
+		</ExtraDataField>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>203</FolderID>
+					<ParentID>170</ParentID>
+					<Name>Backup and Recovery</Name>
+					<GUID>451d8f17-aa2f-46a5-80de-6fd9d5ab81f9</GUID>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>170</FolderID>
+					<ParentID>0</ParentID>
+					<Name>_TSD Scripts</Name>
+					<GUID>c2ec5c8d-5793-481a-96e4-4fdc11364b6e</GUID>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

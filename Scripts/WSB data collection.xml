@@ -1,0 +1,47 @@
+﻿<LabTech_Expansion
+	Version="110.342"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5847</ScriptId>
+				<FolderId>203</FolderId>
+				<ScriptName>WSB data collection</ScriptName>
+				<ScriptNotes></ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAFWPTQrCMBSE94J3yAEa8lOb2vLIRsWNimhxnzZvkYVpSRuxt5cWhboaZoZvYODkGvQ97s1gNFRjh1oAmxVu0e/a6AcMmgNbODi8OxcmBnUVsbdmTMilfeGzxkBkkRDJhSLbUhZlKsn1DGxBwL0JrhseGHrX+mn6P/j2x+isbnKToRIbWqs8o0Kgotu0NpRzYXmhcmt49uNnANjy0Hr1AbU32YHgAAAA</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO1Y608bORD/fJHyP4wChaTKJrsJCeUVQSGlOfESSdsPVVU5WZO4bOzU9sJxiP/9xl5vXgpQ6Q4BpyofMi/P/DyeGe/udrsn2UgfEE0a2QzAdsIryyDb/EtLYrQfGI1CBeVUcUYkGVJN5ZTsMBJdEqnGaSwPP7UOdjrtA+8L46G4Vl6byisqvfekdxmPvLaIYs0ELybhmrzPOG1y0o3okej3qdzpyJgW0dEBvXjEF1owzoy37XKKwAFKvH9GkKhtBNvlWcGM1WHMwkZvndRoPVjzuvX1mhcEtO69q3aJ5/tB6G/U10Pi11IvdoHNWXk6ac5dW9PRGMdeTzsAjnLyDzG3fCs0uiluOsnBXNIrc3x1jl+b42sTvi2kbviI1/w72b7gmvGYGvmYdrpTdcSGzC5JSadp8ZByTexmUDvNTqdkkoUH0lJ5IC2Vau3+xDSq22VHzSSosRLpraVsJgkJe7EeCLkJx+ySwrG4UXSscpWwCUHJL/ljMRY83YTKRjkoV/ygPpFTZQm75JBqBRFRGq6TugRl6xK6ti5BsyEGWlrp661sxvyWm1IKmWz1TNILKinvUdiB1TaLMH3RTZr/VTSOL/fjSMfSGHxN6pr9bTNc6iUKxi/Et81NxOEsWyjI5yj3Dt/nCiYiCUNvpBQnI8ZTlKUEZQLSwhLKoN6BPHryvgzZafcH7Wnwerg5Bdh01cr30xGVGJz32zdK02GhtE9sGrIZdgF558KLTIZX31Z8/x2cV96uIojbbMaeBrT0qkIhuIQsX3cVxrQhu3+KLngjSa+YiBUEqFWaSG0yiDbGtDQWzCm/hnhWhv62fJ/JhClpobTEXeRzKsnQtWSaeiLWo1jDcn5iitq7bIZGplhuZ+AiFQ+HRN4sgnmE9ZDMpc5/CsQVeuXhzjet6KiZCdBwkzMZnAm+WaRuXe33pHiGSUF5OD8tXuSseKRncRvTreDYGcVUty5Sp+Tj7eEMC0/RGU0e3tsSwe+WeI7L80W2g/k9ze03kFQhrrSTPp5b1rSKScNQ9VONTctUYhdeWv25S2vOu70I9syWkjAfzxcEOqCaYKbDY6oU6VMbx/yW4JpCKPgqHiThGgjwOIrgikQxhQshQQ8oWGeA3ly+xs49+hOWzYIC3MJ0zNyJSFaVcnBnoigxtHNDwY2IzY7AbaInQgo+dGMDQHKcGQrwxExYV0p4k+pYzYUu9bBeCOMqn0uX5QrgEZzE4/wYdH5yiKlsJ3A7X8J6w0NPYSjQwkJBYkA0DInuDZAUilo05sVmE6LvCaQfopuAgmxGXTM0zacBknD+be3uj2wmuK1jsJBeENTc+ndP/iSQFsDC0Vd5VaNv44HJd06x5XlSpAoLGAfF7qNPSLuwQoajrUcs0wzuLh6u//LVrfq/OYLWSbt53oHWSecUBlNtAXk4i+I+4+alvwiTd/uE3xdDfACg0tA4Njs3I+rIdjzm0o8LKLWseZI2J1h0F3vRmNv+K8DnvaNPzTbkc7vuo8VurgiWcR8ekH/Tc1FZ+Kbo4y+oVIu/UDDF3CIjBwL9/mIlFbaepJbWXlMt1ddfbS3BPQW0sDjmKij3skuo9gwllPLui+U/mAY/rsAUAAA=</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>c7a5e614-b675-11e6-83ba-001d0967da05</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>203</FolderID>
+					<ParentID>170</ParentID>
+					<Name>Backup and Recovery</Name>
+					<GUID>451d8f17-aa2f-46a5-80de-6fd9d5ab81f9</GUID>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>170</FolderID>
+					<ParentID>0</ParentID>
+					<Name>_TSD Scripts</Name>
+					<GUID>c2ec5c8d-5793-481a-96e4-4fdc11364b6e</GUID>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>
